@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "id": "tc1",
+      "name": "Aswin Subramaniam",
+      "company": "Kaar Tech",
+      "email": "aswinjak2002@gmail.com",
+      "title": "SAP Consultant",
+      "mobile": "9787220470",
+      "photo": "assets/Aswin.JPG",
+      "groupId": "1"
+    },
+    {
+      "id": "tc2",
+      "name": "Aravind",
+      "company": "Shiv Muruga Restaraunt",
+      "email": "aravind1234@gmail.com",
+      "title": "SAP Consultant",
+      "mobile": "8482030233",
+      "photo": "assets/user.png",
+      "groupId": "1"
+    },
+    {
+      "photo": "https://static.vecteezy.com/system/resources/previews/005/162/478/original/cartoon-happy-lion-isolated-on-white-background-free-vector.jpg",
+      "name": "Arun Kumar R",
+      "mobile": "7788044556",
+      "email": "arunkumarr@gmail.com",
+      "company": "M KUMARASAMY COLLEGE OF ENGINEERING",
+      "title": "Student",
+      "groupId": "3",
+      "id": "BuCxywT"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}
